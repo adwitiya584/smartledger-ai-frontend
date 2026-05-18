@@ -1,8 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import api from '../api/axios';
 import {
-  PlusCircle, Trash2, TrendingUp, TrendingDown,
-  Edit3, PieChart, Wallet, RefreshCw
+  PlusCircle, Trash2, TrendingUp, TrendingDown,PieChart, Wallet, RefreshCw
 } from 'lucide-react';
 import {
   PieChart as RechartsPie, Pie, Cell,
